@@ -4,8 +4,6 @@ title: "Hello World"
 author: "Catherine Sansarricq"
 date: "8/17/2021"
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 This is to drop any data science exercises I do from coursera
 ## This is a markdown file
